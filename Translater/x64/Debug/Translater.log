@@ -1,0 +1,8 @@
+﻿  Translater.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  Translater.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Translater.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Message.lib(Message.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Translater.vcxproj -> C:\Users\Rahul\Documents\SU\Project 4\TestHarness\x64\Debug\Translater.exe
